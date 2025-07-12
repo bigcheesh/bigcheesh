@@ -38,6 +38,19 @@ Designed for maximum visual clarity, vibe, and personalization.
 
 ---
 
+### 💣 Potato Nuke
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)  
+An experimental and legacy Discord nuker — built for fun and personal learning.
+
+- ⚠️ Outdated name-database system  
+- 💥 May cause **crashes** or **incomplete execution**  
+- 🔧 Not actively maintained – expect bugs and instability  
+- 🧪 Originally made for testing automation & bot detection
+
+> 🚫 **Disclaimer:** Educational & testing purposes only.  
+> ❗ Usage can violate Discord ToS – **you’ve been warned.**
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
