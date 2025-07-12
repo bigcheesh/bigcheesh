@@ -38,7 +38,7 @@ Designed for maximum visual clarity, vibe, and personalization.
 
 ---
 
-### 💣 Potato Nuke
+### 💣 [Potato Nuke](https://github.com/bigcheesh/potato-nuke/tree/main)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)  
 An experimental and legacy Discord nuker — built for fun and personal learning.
 
