@@ -71,7 +71,7 @@ An experimental and legacy Discord nuker — built for fun and personal learning
 ## 🌐 Let's Connect
 
 [![YouTube](https://img.shields.io/badge/YouTube-%40bigcheesh-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bigcheesh)  
-[![Discord Server](https://img.shields.io/badge/Discord-CLICK-5865F2?logo=discord&style=for-the-badge)(https://discord.gg/icereborn)
+[![Discord Server](https://img.shields.io/badge/Discord-CLICK-5865F2?logo=discord&style=for-the-badge)](https://discord.gg/icereborn)
 
 ---
 
