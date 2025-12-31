@@ -9,17 +9,6 @@
 
 ## 🚀 Featured Projects
 
-### 🎯 [PotatoHook](https://github.com/bigcheesh/potatohook)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Tool](https://img.shields.io/badge/-Discord%20Webhook%20Tool-purple?style=flat-square)
-
-A Discord webhook spammer made for testing & educational use.
-- 🔁 Spam-friendly interface
-- 🛠️ Fully Python-based, compact design
-- 🎮 Ideal for learning how webhooks work in Discord
-
-> 🚫 Use responsibly – for **testing** and **educational** purposes only.
-
 ---
 
 ### 🧪 [Saga Light: Opera GX Mod](https://github.com/bigcheesh/saga-lite)
@@ -37,18 +26,6 @@ Designed for maximum visual clarity, vibe, and personalization.
 > ✨ *Level up your browser game with style.*
 
 ---
-
-### 💣 [Potato Nuke](https://github.com/bigcheesh/potato-nuke/tree/main)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)  
-An experimental and legacy Discord nuker — built for fun and personal learning.
-
-- ⚠️ Outdated name-database system  
-- 💥 May cause **crashes** or **incomplete execution**  
-- 🔧 Not actively maintained – expect bugs and instability  
-- 🧪 Originally made for testing automation & bot detection
-
-> 🚫 **Disclaimer:** Educational & testing purposes only.  
-> ❗ Usage can violate Discord ToS – **you’ve been warned.**
 
 
 ## 📈 GitHub Stats
