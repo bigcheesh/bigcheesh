@@ -47,7 +47,7 @@ Designed for maximum visual clarity, vibe, and personalization.
 
 ## 🌐 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%40lix-bear-red?style=for-the-badge)](https://twizzygg.vercel.app)  
+> Portfolio: https://twizzygg.vercel.app 
 [![Discord Server](https://img.shields.io/badge/Discord-CLICK-5865F2?logo=discord&style=for-the-badge)](https://discord.gg/p6HnkxMZSz)
 
 ---
