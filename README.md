@@ -2,7 +2,7 @@
 
 ```
   ╔══════════════════════════════════════╗
-  ║   bigcheesh  ·  builder of things   ║
+  ║   bigcheesh  ·  just a random guy    ║
   ╚══════════════════════════════════════╝
 ```
 
