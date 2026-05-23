@@ -64,6 +64,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigcheesh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" width="48%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bigcheesh&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" width="100%" />
+</div>
+
 ---
 
 <div align="center">
