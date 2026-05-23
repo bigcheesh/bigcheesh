@@ -57,7 +57,7 @@
 
 ---
 
-## stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bigcheesh&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" width="100%" />
