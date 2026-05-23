@@ -64,26 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigcheesh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" width="48%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bigcheesh&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" width="100%" />
-</div>
-
----
-
-## star history
-
-<div align="center">
-  <a href="https://star-history.com/#bigcheesh/openflow&bigcheesh/saga-lite&bigcheesh/imgui-window&bigcheesh/potatohook&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=bigcheesh/openflow,bigcheesh/saga-lite,bigcheesh/imgui-window,bigcheesh/potatohook&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=bigcheesh/openflow,bigcheesh/saga-lite,bigcheesh/imgui-window,bigcheesh/potatohook&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=bigcheesh/openflow,bigcheesh/saga-lite,bigcheesh/imgui-window,bigcheesh/potatohook&type=Date&theme=dark" width="100%" />
-    </picture>
-  </a>
-</div>
-
 ---
 
 <div align="center">
