@@ -9,7 +9,7 @@
 **AI platforms · Creative tooling · Browser mods · C++ interfaces**
 
 [![Portfolio](https://img.shields.io/badge/twizzy.gg-000000?style=flat-square&logo=vercel&logoColor=white)](https://twizzygg.vercel.app)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/icereborn)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/914501905869320265)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@bigcheesh)
 
 </div>
@@ -20,7 +20,7 @@
 
 | area | stack | vibe |
 |------|-------|------|
-| AI platforms | TypeScript · REST APIs | pushing what models can do |
+| Cheating | TypeScript · REST APIs | pushing what models can do |
 | native UIs | C++ · ImGui | borderless, clean, fast |
 | browser experiences | CSS · Opera GX SDK | themes that actually have a soul |
 | web tools | TypeScript · HTML/CSS | portfolio sites & creative tools |
@@ -50,10 +50,10 @@
 
 ---
 
-### [saga-lite](https://github.com/bigcheesh/saga-lite)
-> Opera GX mod. Neon violet, custom shaders, ambient sound FX, animated wallpaper.
+### [hexa-cs2](https://github.com/bigcheesh/hexa-cs2-ext)
+> CS2 (Counter Strike 2) External ESP+Aimbot cheat.
 
-`CSS · GX SDK` — because your browser is a canvas too.
+`CS2 -insecure` — Educational purpose to understand game cheat development.
 
 ---
 
